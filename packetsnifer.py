@@ -1,7 +1,7 @@
 from scapy.all import sniff, IP, TCP, UDP , DNS
 from datetime import datetime
 
-times=int(input("dose poses fores tha ginei sniff: "))
+times=int(input("times for sniff "))
 
 file1 = open('data1.txt','w')  
 
