@@ -1,3 +1,3 @@
 # packetsnifer
 a simple packet snifer
-\nthe program run in windoes
+,the program run in windoes
