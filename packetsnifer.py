@@ -36,5 +36,5 @@ def packet(pkt):
 
     
 
-capture = sniff(iface="Ethernet",count=times,prn=packet)
+capture = sniff(iface="Ethernet",count=times,prn=packet) #chanche the Ethernet to Eth0 to work in linux
 
